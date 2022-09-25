@@ -31,20 +31,34 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="╚═★ ʜɪ, ɪ ᴀᴍ ᴏɴʟɪɴᴇ ɴᴏᴡ,🤚 ★═╝ 
+
+සිහින සිහිනම නොවුන තැන්වල
+හිතේ සොදුරුම මුදු හැගුම්වල
+නොහිමි කවියක ඔටුනු පැලදුව
+කිරුලු වැලපෙයි නොලද සිහසුන...🥹
+
+▫️ Qᴜᴇᴇɴ ɪꜱʜᴜ-ᴍᴅ
+▫️you can use any features for this WhatsApp account🗯️
+▫️ᴾˡᵃᵗᶠʳᵒᵐᵉ - Windows 10 Pro
+▫️Owner- ʜɪʀᴜ
+▫️Dont use bad word and you will remove automatically
+
+╰┈►𝒢𝑜𝑜𝒹 𝐿𝓊𝒸𝓀 ◄┈╯
+       ▞▞▞  ▞▞▞"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://i.ibb.co/6HyX4ZM/744926.jpg" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
+global.ownername = " HiRU OffiCiaL " //ur owner name
+global.owner = ['94704815387','']
+global.premium = ['94774579505','94777429165']
+global.botname = 'Qᴜᴇᴇɴ ɪꜱʜᴜ-ᴍᴅ'
+global.ownername = 'HiRu OfficaL'
+global.group1 = 'https://chat.whatsapp.com/FLg1pNyUMEh7x9GxYmlli6'
+global.group2 = 'https://chat.whatsapp.com/FLg1pNyUMEh7x9GxYmlli6'
+global.packname = 'Qᴜᴇᴇɴ ɪꜱʜᴜ-ᴍᴅ'
+global.ytchannel = ''
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +79,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.author = 'Qᴜᴇᴇɴ ɪꜱʜᴜ-ᴍᴅ'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
